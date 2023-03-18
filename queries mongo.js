@@ -1,5 +1,3 @@
-QUERIES
-
 1-- db.Restaurant.find().pretty()
 2-- db.Restaurant.find({},{restaurant_id:1, name:1, borough:1, cuisine:1}).pretty()
 3-- db.Restaurant.find({},{restaurant_id:1, name:1, borough:1, cuisine:1, _id:0}).pretty()
